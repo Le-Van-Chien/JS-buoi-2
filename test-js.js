@@ -198,7 +198,7 @@
 // } else {
 //     console.log('Vui lòng nhập m và n lớn hơn hoặc bằng 2.');
 // }
-// let n = Number(prompt('Nhập vào số n (n >= 3): '));
+
 
 
 //***** BAI 16 *****//
